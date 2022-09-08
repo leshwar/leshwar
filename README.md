@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Eshwar Nag
-- 🌱 I’m currently working as a Software Engineer at Expedia Group
+- 🌱 I’m currently working as a Software Engineer at Microsoft
 - 👀 I’m interested in Piloting interesting projects
 - 📫 Reach out to me at leshwar4@gmail.com or https://www.linkedin.com/in/eshwarlanka/
 
